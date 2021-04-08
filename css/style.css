@@ -2071,6 +2071,10 @@ body.ie ._ibg img {
     margin: 0px 15px 0px 0px;
   }
 
+  .partners-page__column:last-child {
+    border-right: 4px solid rgba(0, 0, 0, 0.1);
+  }
+
   .partners-page__image {
     width: 200px;
   }
